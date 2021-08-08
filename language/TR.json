@@ -1,10 +1,10 @@
 {
-    "__ASENAJSON__": true,
+    "__XTROIDJSON__": true,
     "LANGUAGE": "Türkçe",
     "LANGCODE": "tr",
-    "AUTHOR": "AsenaDev",
+    "AUTHOR": "XtroidDev",
     "STRINGS": { 
-        "_asena": {
+        "_xtroid": {
             "COMMAND": "Komut",
             "DESC": "Açıklama",
             "EXAMPLE": "Örnek",
